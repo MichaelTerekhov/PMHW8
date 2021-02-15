@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.exe
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.deps.json
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.runtimeconfig.json
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.runtimeconfig.dev.json
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.dll
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\TestingOfIoC.pdb
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.csprojAssemblyReference.cache
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.AssemblyInfo.cs
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.csproj.CopyComplete
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.dll
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.pdb
+C:\Users\Михаил\source\parimatch\pm-academy-demo\dotNet\HomeWorks\HomeWork8\DesignPatterns\TestingOfIoC\obj\Debug\netcoreapp3.1\TestingOfIoC.genruntimeconfig.cache
